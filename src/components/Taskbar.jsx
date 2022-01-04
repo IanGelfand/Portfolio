@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { TaskBar, Modal, List, Button } from '@react95/core';
+import { TaskBar, Modal, List } from '@react95/core';
 import { Computer4, Mail, FileText, Person116, Sendmail2001 } from "@react95/icons"
 import styled from 'styled-components';
 
