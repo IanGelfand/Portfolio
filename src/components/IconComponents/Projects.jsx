@@ -59,6 +59,18 @@ export default function Projects() {
         >
           <Body>
             <Title>Projects</Title>
+            <Link href="https://github.com/IanGelfand/N3tflix" target="_blank" rel="noopener noreferrer">
+              N3tflix
+            </Link>
+            <ul>
+              <li>
+                Netflix clone built with React, Tailwindcss, and uses The movie db API for data.
+              </li>
+              <li>
+                Features movie and show categories, such as most popular, latest and different other genres.
+              </li>
+            </ul>
+            <hr />
             <Link href="https://github.com/IanGelfand/Profinance" target="_blank" rel="noopener noreferrer">
               Profinance
             </Link>
